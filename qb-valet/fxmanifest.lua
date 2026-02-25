@@ -3,7 +3,7 @@ game 'gta5'
 
 name 'qb-valet'
 author 'Hayabusa'
-description 'Valet system for QBCore + JG Advanced Garages'
+description 'Valet system for QBCore'
 version '2.1.5'
 
 shared_script {
