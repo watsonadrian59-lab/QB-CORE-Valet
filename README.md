@@ -6,7 +6,7 @@ Dependencies:
 - QB-MENU
 - QB-INPUT
 - QB-CORE
-- OXLIB
+- OX_LIB
 
 
 Very lightweight, standalone qb-menu valet script.
